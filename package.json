@@ -1,0 +1,11 @@
+{
+  "name": "token-contract",
+  "version": "1.0.0",
+  "description": "$UNSHIB Unvaxxed Shiba token contract",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Unvaxxed Shiba",
+  "license": "ISC"
+}
